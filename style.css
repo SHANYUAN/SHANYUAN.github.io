@@ -1,0 +1,36 @@
+body {
+  background-color: LightSlateGrey;
+  font-family: "Inconsolata", monospace;
+  color: #fff;
+  margin: 0;
+  line-height: 1.45;
+  padding: 1.33em;
+}
+
+a {
+  color: #fff;
+  text-decoration-line: 2px;
+  padding-bottom: 3px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 1.7em;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 1.3em;
+  margin: 0;
+  font-weight: normal;
+}
+
+.links {
+  margin-top: 12px;
+}
+
+.links a {
+  font-size: 1.5em;
+  text-decoration-line: none;
+  margin-right: 5px;
+}
